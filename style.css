@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand  img{
+ width: 100px;
+}
+
+.jk a{
+    color: black;
+}
+
+.hello{
+    border-radius: 10px;
+}
+.hello a{
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    
+}

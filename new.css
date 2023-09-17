@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.iogo img{
+    width: 200px;
+}
+
+input{
+    width: 200px;
+    height: 25px;
+    background-color: whitesmoke;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.button button{
+    background-color: red;
+    padding: 7px;
+    color: white;
+    border-radius: 10px;
+    width: 200px;
+    border: none;
+}
